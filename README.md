@@ -7,6 +7,8 @@ English | [简体中文](./README.zh-CN.md)
 </p>
 
 # Ant Design Mobile
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/xzzw9987/antd-mobile.svg)](https://greenkeeper.io/)
 [![](https://img.shields.io/travis/ant-design/ant-design-mobile.svg?style=flat-square)](https://travis-ci.org/ant-design/ant-design-mobile)
 [![Codecov](https://img.shields.io/codecov/c/github/ant-design/ant-design-mobile.svg?style=flat-square)](https://codecov.io/gh/ant-design/ant-design-mobile)
 [![npm package](https://img.shields.io/npm/v/antd-mobile.svg?style=flat-square)](https://www.npmjs.org/package/antd-mobile)
